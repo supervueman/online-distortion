@@ -2,7 +2,7 @@
 # Read about how to use .gitignore: https://help.github.com/articles/ignoring-files
 .DS_Store
 node_modules/
-# /dist/
+/dist/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
